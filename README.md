@@ -15,4 +15,5 @@ Este es un componente de tarjeta responsive diseñado usando HTML y CSS. La tarj
 ### Captura de Pantalla
 A continuación se muestra una captura de pantalla que refleja cómo se presenta el elemento.
 
-![Captura de Pantalla](componentes/Captura%desde%2023-08-13%19-40-08.png)
+![Captura 2](componentes/Captura%20desde%202023-08-13%2019-40-08.png)
+![Captura 3](componentes/Captura%20desde%202023-08-13%2019-40-35.png)
